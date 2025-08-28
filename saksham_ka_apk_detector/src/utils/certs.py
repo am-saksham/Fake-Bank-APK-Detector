@@ -1,5 +1,5 @@
 import hashlib
-from cryptography.hazmat.primitives.serialization import load_der_x509_certificate
+from cryptography.x509 import load_der_x509_certificate
 from cryptography.hazmat.primitives import hashes
 
 def sha256_fingerprint_der(der_bytes: bytes) -> str :

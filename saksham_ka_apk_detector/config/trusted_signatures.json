@@ -1,6 +1,8 @@
 {
     "notes": "Map packageName -> list of trusted signer cert SHA-256 fingerprints",
     "trusted": {
-        
+        "com.boi.ua.android": [
+            "018672474e1b89cfcef70ffd3f96ef40c2502ec7564213a072b62d7aabb962f9"
+        ]
     }
 }
