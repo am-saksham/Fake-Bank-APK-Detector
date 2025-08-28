@@ -1,0 +1,6 @@
+{
+    "notes": "Map packageName -> list of trusted signer cert SHA-256 fingerprints",
+    "trusted": {
+        
+    }
+}

@@ -1,0 +1,7 @@
+androguard
+streamlit
+pandas
+numpy
+joblib
+cryptography
+tldextract
