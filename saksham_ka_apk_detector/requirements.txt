@@ -5,3 +5,5 @@ numpy
 joblib
 cryptography
 tldextract
+tqdm
+scikit-learn

@@ -38,6 +38,10 @@ if apk_file:
             for r in result["reasons"]:
                 st.write("• " + r)
 
+            st.subheader("ML Output")
+            st.write(f"Probability Fake: {result['ml_probability_fake']:.2f}")
+            st.write(f"Prediction: {result['ml_prediction']}")
+
         with right:
             f = result["features"]
             st.subheader("Key Metadata")

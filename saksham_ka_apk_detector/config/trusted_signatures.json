@@ -3,6 +3,33 @@
     "trusted": {
         "com.boi.ua.android": [
             "018672474e1b89cfcef70ffd3f96ef40c2502ec7564213a072b62d7aabb962f9"
+        ],
+        "com.bankofbaroda.mconnect": [
+            "86734f0ce04de5bce31b1978b5dac7f938feecdfe01908f5a1ae3cdcceb43003"
+        ],
+        "com.iexceed.ib.digitalbankingprod": [
+            "ed0ace4164b34f002e30fc6da5e0c554d1609d78d66a1c0bf201385091b4149a"
+        ],
+        "com.Version1": [
+            "cb31e6fd5e2a62d502e6b9be9c6f41d6314e5992a13a4bf8509ca0ffd0a046e0"
+        ],
+        "com.sbi.lotusintouch": [
+            "435776891f2ca214e3ed167c42f60e47d96fa49e0c9ea76dbd9936fa54f15f42"
+        ],
+        "com.lcode.ucomobilebanking": [
+            "1ee4e7d608cae3146bc539d9938b5a490c39e7500d25f80b34b71f54c4712b1c"
+        ],
+        "com.canarabank.mobility": [
+            "cfe8e60dacd95c0ff2886231ef485d039aa3fee3483d33154631aba27327015a"
+        ],
+        "com.dbs.in.digitalbank": [
+            "f051e981a2e357b2b7f5709bacfc49e7c8ebc87eb8310fdf3a85082b9bdc3b95"
+        ],
+        "com.icode.ucomobilebanking": [
+            "1ee4e7d608cae3146bc539d9938b5a490c39e7500d25f80b34b71f54c4712b1c"
+        ],
+        "com.infrasofttech.CentralBank": [
+            "6df041f35eb58f4dc8c25d53de0cdb262b87793f60e215c9151197d0474d2289"
         ]
     }
 }
